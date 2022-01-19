@@ -3,7 +3,7 @@ apt install figlet
 
 echo Done ✅
 sleep 3
-apt-get update -y
+apt-get update 
 echo update Done ✅
 sleep 3
 apt-get upgrade -y
@@ -21,7 +21,9 @@ echo Loading...
 
 figlet AndroLinux.
 echo  -e  "\e[31mScriptted by Rihad-sir\e[0m"
+
 echo your current divice
+#install
 screenfetch
 Done ✅
 
