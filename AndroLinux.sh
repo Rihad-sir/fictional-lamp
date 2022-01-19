@@ -26,7 +26,7 @@ echo your current divice
 #install
 pkg install screenfetch
 screenfetch
-Done ✅
+echo Done ✅
 
 
 
