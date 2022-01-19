@@ -9,7 +9,7 @@ sleep 3
 apt-get upgrade -y
 upgrade Done ✅
 sleep 3
-pkg install screen.
+pkg install screen
 screen Done ✅
 sleep 3
 pkg install screenfetch
@@ -22,7 +22,7 @@ echo Loading...
 figlet AndroLinux.
 echo  -e  "\e[31mScriptted by Rihad-sir\e[0m"
 echo your current divice
-screenfetch.
+screenfetch
 Done ✅
 
 
