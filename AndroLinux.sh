@@ -7,13 +7,13 @@ apt-get update
 echo update Done ✅
 sleep 3
 apt-get upgrade -y
-upgrade Done ✅
+echo upgrade Done ✅
 sleep 3
-pkg install screen
-screen Done ✅
+pkg install scren
+echo screen Done ✅
 sleep 3
 pkg install screenfetch
-screen fetech Done ✅
+echo screen fetech Done ✅
 
 
 sleep 3
@@ -24,9 +24,9 @@ echo  -e  "\e[31mScriptted by Rihad-sir\e[0m"
 
 echo your current divice
 #install
-pkg install screenfetch
+
 screenfetch
-echo Done ✅
+
 
 
 
