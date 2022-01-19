@@ -14,7 +14,7 @@ screen Done ✅
 sleep 3
 pkg install screenfetch
 screen fetech Done ✅
-clear
+
 
 sleep 3
 echo Loading...
@@ -24,6 +24,7 @@ echo  -e  "\e[31mScriptted by Rihad-sir\e[0m"
 
 echo your current divice
 #install
+pkg install screenfetch
 screenfetch
 Done ✅
 
